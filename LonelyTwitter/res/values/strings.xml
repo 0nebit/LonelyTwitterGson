@@ -5,5 +5,7 @@
     <string name="app_name">LonelyTwitter</string>
     <string name="save">Save</string>
     <string name="clear">Clear</string>
+    <string name="str_summary">Summary</string>
+    <string name="back_button">Back</string>
     
 </resources>

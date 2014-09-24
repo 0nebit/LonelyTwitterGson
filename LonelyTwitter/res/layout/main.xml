@@ -13,8 +13,7 @@
     <ListView
         android:id="@+id/oldTweetsList"
         android:layout_width="fill_parent"
-        android:layout_height="263dp"
-        android:layout_weight="1"
+        android:layout_height="260dp"
         android:scrollbars="vertical" >
 
     </ListView>
@@ -44,5 +43,13 @@
         android:layout_height="wrap_content"
         android:text="@string/save"
         android:onClick="save" />
+
+    <Button
+        android:id="@+id/summary_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/str_summary" >
+        
+    </Button>
 
 </LinearLayout>
